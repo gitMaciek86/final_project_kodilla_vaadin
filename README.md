@@ -1,6 +1,6 @@
 backend:
 
-https://github.com/gitMaciek86/final_project_kodilla_backend/b8dc1d6
+https://github.com/gitMaciek86/final_project_kodilla_backend/master/b8dc1d6
 
 główny katalog znajduje się pod adresem package com.translation.demo;
 
